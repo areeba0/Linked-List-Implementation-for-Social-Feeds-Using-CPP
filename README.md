@@ -2,7 +2,7 @@
 This C++ mini-program simulates a social media feed using a linked list structure. It allows users to perform various operations such as adding posts, searching posts by content, editing posts, deleting posts, and displaying posts in chronological or reverse chronological order.
 
 # Dependencies:
-This program relies on standard C++ libraries such as <iostream>, <string>, <ctime>, and <iomanip>.
+This program relies on standard C++ libraries such as iostream, string, ctime, and iomanip.
 
 # Features:
 - Add Post: Users can add posts to the feed. Posts are automatically timestamped upon creation.
